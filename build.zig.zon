@@ -1,5 +1,5 @@
 .{
-    .name = .tgbot_zig,
+    .name = .zig_template,
     .version = "0.0.0",
     .fingerprint = 0xd5505ffe614657ba,
     .minimum_zig_version = "0.15.1",
